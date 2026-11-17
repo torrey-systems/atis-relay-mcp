@@ -1,0 +1,22 @@
+{
+  "name": "atis-relay-mcp",
+  "version": "1.0.0",
+  "description": "stdio MCP bridge for the ATIS Relay remote server",
+  "type": "module",
+  "bin": {
+    "atis-relay-mcp": "src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "author": "Torrey Systems, LLC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torrey-systems/atis-relay-mcp.git"
+  },
+  "homepage": "https://atisrelay.com",
+  "files": [
+    "src"
+  ]
+}

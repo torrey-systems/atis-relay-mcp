@@ -1,0 +1,7 @@
+{
+  "note": "This is a pointer to the live OpenAPI spec, not a vendored copy. Fetch the current document from the JSON URL.",
+  "json": "https://atisrelay.com/openapi.json",
+  "yaml": "https://atisrelay.com/openapi.yaml",
+  "docs": "https://atisrelay.com/api_docs",
+  "guide": "https://atisrelay.com/getting-started"
+}
